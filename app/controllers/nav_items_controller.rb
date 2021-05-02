@@ -1,0 +1,2 @@
+class NavItemsController < ApplicationController
+end

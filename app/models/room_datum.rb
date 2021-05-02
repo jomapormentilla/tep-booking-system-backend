@@ -1,0 +1,2 @@
+class RoomDatum < ApplicationRecord
+end
